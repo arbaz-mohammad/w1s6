@@ -1,0 +1,107 @@
+.container{
+    width: 1440px;
+    margin: auto;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.header{
+    
+    padding: 0px,10px;
+    
+}
+.header_logo {
+     width: 150px;
+    height: auto;
+    padding: 30px,0px;
+    
+}
+
+
+.header_nav{
+    margin-top: 30px;
+    margin-left: 500px;
+    padding: 18px,18px;
+}
+.header_nav a {
+    text-decoration: none;
+    font-size: medium;
+    padding: 13px;
+    margin-top: 400px;
+    color:  rgb(110, 110, 110);
+    background-color: rgb(255, 255, 255);
+}
+.header_btn {
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 200px;
+
+}
+.header_btn_two{
+    color: azure;background-color: blue;
+padding: 10px;
+border-radius: 3px;
+    
+}
+/* Style the hamburger icon */
+.hamburger-icon {
+    width: 20px; /* Set desired width */
+    height: 20px; /* Set desired height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: -17px;
+}
+
+.hamburger-icon span {
+    width: 100%; /* Set desired width */
+    height: 4px; /* Set desired height */
+    background-color: rgb(124, 124, 124); /* Set desired color */
+    margin-bottom: 4px;
+    margin-left: 800px; /* Set desired spacing */
+    
+
+}
+
+.one img{
+    width: 30%;
+    margin-left: 28%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+.one h1{
+    font-size: 40px;
+    margin-left: 32%;
+    margin-top: 5px;
+    color: rgb(65, 64, 64);
+    
+}
+.one h3{
+    font-size: 25px;
+    margin-left: 18%;
+    color:  rgb(65, 64, 64);
+    font-weight: 400;
+    
+
+}
+.one a{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: aliceblue;
+    background-color: rgb(20, 60, 205);
+    margin-left: 550px;
+    border-radius: 4px;
+
+}
+.kuch{
+    margin-top: 100px;
+}
+
+
